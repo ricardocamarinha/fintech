@@ -4,7 +4,7 @@
 
   <p>A <b>Fintech</b> is a panel where there are graphs to be analyzed.</p>
 
-## 👉 Live Demo: <a href='https://fintech-flax.vercel.app/'>Live Demo</a>
+## 👉 Live Demo: <a href='https://fintech-blush.vercel.app/'>Live Demo</a>
 
 ### » Skills Used: TypeScript.
 
