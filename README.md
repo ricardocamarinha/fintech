@@ -2,7 +2,7 @@
 
 <h2>About the project</h2>
 
-  <p>A <b>Fintech</b> is a panel where there are graphs to be analyzed.</p>
+  <p><b>Fintech</b> is a panel where there are graphs to be analyzed.</p>
 
 ## 👉 Live Demo: <a href='https://fintech-blush.vercel.app/'>Live Demo</a>
 
